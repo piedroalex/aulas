@@ -9,4 +9,5 @@
 - [JDBC](https://github.com/piedroalex/aula_jdbc)
 - [DAO](https://github.com/piedroalex/aula_dao)
 - [MVC](https://github.com/piedroalex/aula_mvc)
-- [JPA/HIBERNATE](https://github.com/piedroalex/aula_jpa_hibernate)
+- [JPA / HIBERNATE](https://github.com/piedroalex/aula_jpa_hibernate)
+- [JAVA SWING](https://github.com/piedroalex/aula_javaswing)
